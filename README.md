@@ -3,11 +3,11 @@
 杩欓噷鏄?YMH-Browser 鐨勫叕寮€瀹夎鍖呬粨搴擄紝鍙彂甯冨彲鐩存帴瀹夎鍜屽崌绾х殑鏋勫缓浜х墿锛屼笉鍖呭惈婧愮爜銆佷唬鐞嗛厤缃€丠ub 鍑嵁鎴栨湰鍦扮敤鎴锋暟鎹€?
 ## 褰撳墠鐗堟湰
 
-- 鏈€鏂扮増鏈細v1.5.5
+- 鏈€鏂扮増鏈細v1.5.6
 - 鍙戝竷鏃ユ湡锛?026-08-12
-- Windows 瀹夎鍖咃細[YMH-Browser-Setup-1.5.5.exe](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.5/YMH-Browser-Setup-1.5.5.exe)
-- SHA256 鏍￠獙鏂囦欢锛歔YMH-Browser-Setup-1.5.5.exe.sha256](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.5/YMH-Browser-Setup-1.5.5.exe.sha256)
-- 鍙戝竷椤碉細[v1.5.5 Release](https://github.com/tryle17/YMH-Browser-Releases/releases/tag/v1.5.5)
+- Windows 瀹夎鍖咃細[YMH-Browser-Setup-1.5.6.exe](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.6/YMH-Browser-Setup-1.5.6.exe)
+- SHA256 鏍￠獙鏂囦欢锛歔YMH-Browser-Setup-1.5.6.exe.sha256](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.6/YMH-Browser-Setup-1.5.6.exe.sha256)
+- 鍙戝竷椤碉細[v1.5.6 Release](https://github.com/tryle17/YMH-Browser-Releases/releases/tag/v1.5.6)
 
 褰撳墠浠撳簱鍙繚鐣欐渶鏂板彲鍗囩骇鐗堟湰銆傚簲鐢ㄥ唴鏇存柊妫€鏌ヤ細璇诲彇鏈粨搴撶殑鏈€鏂?Release锛屽苟鎸夊綋鍓嶅钩鍙伴€夋嫨瀹夎鍖呫€?
 ## 瀹夎涓庡崌绾?
