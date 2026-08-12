@@ -1,27 +1,47 @@
 # YMH-Browser Releases
 
-杩欓噷鏄?YMH-Browser 鐨勫叕寮€瀹夎鍖呬粨搴擄紝鍙彂甯冨彲鐩存帴瀹夎鍜屽崌绾х殑鏋勫缓浜х墿锛屼笉鍖呭惈婧愮爜銆佷唬鐞嗛厤缃€丠ub 鍑嵁鎴栨湰鍦扮敤鎴锋暟鎹€?
-## 褰撳墠鐗堟湰
+这里是 YMH-Browser 的公开发布仓库，只提供面向最终用户的安装包、校验文件和版本说明，不包含源码、代理配置、Hub 凭据或本地用户数据。
 
-- 鏈€鏂扮増鏈細v1.5.6
-- 鍙戝竷鏃ユ湡锛?026-08-12
-- Windows 瀹夎鍖咃細[YMH-Browser-Setup-1.5.6.exe](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.6/YMH-Browser-Setup-1.5.6.exe)
-- SHA256 鏍￠獙鏂囦欢锛歔YMH-Browser-Setup-1.5.6.exe.sha256](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.6/YMH-Browser-Setup-1.5.6.exe.sha256)
-- 鍙戝竷椤碉細[v1.5.6 Release](https://github.com/tryle17/YMH-Browser-Releases/releases/tag/v1.5.6)
+## 当前版本
 
-褰撳墠浠撳簱鍙繚鐣欐渶鏂板彲鍗囩骇鐗堟湰銆傚簲鐢ㄥ唴鏇存柊妫€鏌ヤ細璇诲彇鏈粨搴撶殑鏈€鏂?Release锛屽苟鎸夊綋鍓嶅钩鍙伴€夋嫨瀹夎鍖呫€?
-## 瀹夎涓庡崌绾?
-1. 涓嬭浇鏈€鏂扮殑 YMH-Browser-Setup-<version>.exe銆?2. 鍙€夛細涓嬭浇鍚屽悕 .sha256 鏂囦欢骞舵牎楠屽畨瑁呭寘 SHA256銆?3. 杩愯瀹夎绋嬪簭锛屾寜鍚戝瀹屾垚瀹夎鎴栧崌绾с€?4. 宸插畨瑁呯敤鎴峰彲浠ュ湪搴旂敤鍐呮墦寮€鈥滄鏌ユ洿鏂扳€濓紝涓嬭浇瀹屾垚鍚庨€夋嫨鈥滅珛鍗冲畨瑁呪€濄€?
-鍗囩骇浼氫繚鐣欐湰鍦板疄渚嬨€佷唬鐞嗐€佷功绛惧拰娴忚鍣ㄧ敤鎴锋暟鎹€傚崌绾у墠浠嶅缓璁叧闂鍦ㄨ繍琛岀殑娴忚鍣ㄥ疄渚嬶紝骞朵繚鐣欐湰鍦板浠姐€?
-## 鍙戝竷鍐呭
+- 最新版本：v1.5.6
+- 发布日期：2026-08-12
+- Windows 安装包：[YMH-Browser-Setup-1.5.6.exe](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.6/YMH-Browser-Setup-1.5.6.exe)
+- SHA256 校验文件：[YMH-Browser-Setup-1.5.6.exe.sha256](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.6/YMH-Browser-Setup-1.5.6.exe.sha256)
+- 版本说明：[v1.5.6 Release](https://github.com/tryle17/YMH-Browser-Releases/releases/tag/v1.5.6)
 
-鍏紑浠撳簱鍙寘鍚細
+当前仓库只保留最新可升级版本。应用内更新检查会读取最新 Release，并根据当前平台选择对应的安装包。
 
-- Windows 瀹夎绋嬪簭锛?- 涓庡畨瑁呯▼搴忓搴旂殑 SHA256 鏍￠獙鏂囦欢锛?- 闈㈠悜鏈€缁堢敤鎴风殑鐗堟湰璇存槑銆?
-婧愮爜鍜屽紑鍙戠害鏉熶繚瀛樺湪绉佹湁婧愮爜浠撳簱锛歔tryle17/YMH-Browser](https://github.com/tryle17/YMH-Browser)銆傛寚绾瑰唴鏍镐娇鐢?[adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium/releases) 鐨勯缂栬瘧鍙戣鐗堛€?
-## 浣跨敤杈圭晫
+## 安装与升级
 
-璇蜂粎鍦ㄦ嫢鏈夊悎娉曟巿鏉冪殑璐﹀彿銆佺綉绔欏拰娴嬭瘯鐜涓娇鐢ㄣ€侷P 淇¤獕銆乀LS/JA3銆佽涓洪鎺у拰鏈嶅姟绔瓥鐣ュ彲鑳藉奖鍝嶇涓夋柟缃戠珯缁撴灉锛屼换浣曟祻瑙堝櫒鎸囩汗閰嶇疆閮戒笉搴旇鐞嗚В涓哄鐗瑰畾缃戠珯閫氳繃鐜囩殑淇濊瘉銆?
-## 闂鍙嶉
+1. 下载最新的 YMH-Browser-Setup-<version>.exe。
+2. 可选下载同名 .sha256 文件，并在安装前校验安装包的 SHA256。
+3. 运行安装程序，按向导完成安装或升级。
+4. 已安装用户也可以在应用内打开“检查更新”，下载完成后选择“立即安装”。
 
-璇峰湪鍙嶉涓彁渚涘簲鐢ㄧ増鏈€佹搷浣滅郴缁熴€佸鐜版楠ゅ拰闈炴晱鎰熸棩蹇椼€備笉瑕佹彁浜や唬鐞嗚闃呫€佽妭鐐瑰嚟鎹€丠ub token銆乺epo key銆丆ookie 鎴栨湰鍦扮敤鎴锋暟鎹€?
+升级会保留本地实例、代理、书签和浏览器用户数据。升级前仍建议关闭正在运行的浏览器实例，并保留本地备份。
+
+## 1.5.6 更新内容
+
+- 修复 fingerprint-chromium 148 默认搜索引擎设置失败的问题，按内核返回的真实 engine id 选择 Bing。
+- 修复更新弹窗点击“立即下载”无反馈的问题，补充下载中、失败、重试和立即安装状态。
+- 同步 Hub 服务权限和运行版本，member / sync_member 可以搜索并安装已发布插件，owner 保留发布管理权限。
+- 重写源码仓库和发布仓库根 README，补充实际安装、升级、实例、代理、内核、Hub 和插件商店说明。
+
+## 发布内容
+
+公开仓库仅包含：
+
+- Windows 安装程序；
+- 与安装程序对应的 SHA256 校验文件；
+- 面向最终用户的版本说明。
+
+源码和开发约束保存在私有源码仓库 [tryle17/YMH-Browser](https://github.com/tryle17/YMH-Browser)。浏览器内核使用 [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium/releases) 的预编译发行版。
+
+## 使用边界
+
+请仅在拥有合法授权的账号、网站和测试环境中使用。IP 信誉、TLS/JA3、行为风控和服务端策略可能影响第三方网站结果，任何浏览器指纹配置都不应被理解为对特定网站通过率的保证。
+
+## 问题反馈
+
+反馈时请提供应用版本、操作系统、可复现步骤和不包含敏感信息的日志。请勿提交代理订阅、节点凭据、Hub token、repo key、Cookie 或本地用户数据。
