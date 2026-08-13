@@ -4,11 +4,10 @@
 
 ## 当前版本
 
-- 最新版本：v1.5.7
-- 发布日期：2026-08-13
-- Windows 安装包：[YMH-Browser-Setup-1.5.7.exe](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.7/YMH-Browser-Setup-1.5.7.exe)
-- SHA256 校验文件：[YMH-Browser-Setup-1.5.7.exe.sha256](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.7/YMH-Browser-Setup-1.5.7.exe.sha256)
-- 版本说明：[v1.5.7 Release](https://github.com/tryle17/YMH-Browser-Releases/releases/tag/v1.5.7)
+- 最新版本：v1.5.8
+- Windows 安装包：[YMH-Browser-Setup-1.5.8.exe](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.8/YMH-Browser-Setup-1.5.8.exe)
+- SHA256 校验文件：[YMH-Browser-Setup-1.5.8.exe.sha256](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.8/YMH-Browser-Setup-1.5.8.exe.sha256)
+- 版本说明：[v1.5.8 Release](https://github.com/tryle17/YMH-Browser-Releases/releases/tag/v1.5.8)
 
 当前仓库只保留最新可升级版本。应用内更新检查会读取最新 Release，并根据当前平台选择对应的安装包。
 
@@ -21,28 +20,9 @@
 
 升级会保留本地实例、代理、书签和浏览器用户数据。升级前仍建议关闭正在运行的浏览器实例，并保留本地备份。
 
-## 1.5.7 更新内容
-
-- 新增接口化指纹验收流程和脱敏证据规范，覆盖 LaunchServer、CDP、Client Hints 与检测站入口记录。
-- 完善文档中心的操作流程、脚本自动化和 ant-chrome-openclaw skill 使用说明。
-- 增加旧版 /api/active 兼容路径，并修复持久 CDP 主动停止时的误报。
-
-## 1.5.6 更新内容
-
-- 修复 fingerprint-chromium 148 默认搜索引擎设置失败的问题，按内核返回的真实 engine id 选择 Bing。
-- 修复更新弹窗点击“立即下载”无反馈的问题，补充下载中、失败、重试和立即安装状态。
-- 同步 Hub 服务权限和运行版本，member / sync_member 可以搜索并安装已发布插件，owner 保留发布管理权限。
-- 重写源码仓库和发布仓库根 README，补充实际安装、升级、实例、代理、内核、Hub 和插件商店说明。
-
 ## 发布内容
 
-公开仓库仅包含：
-
-- Windows 安装程序；
-- 与安装程序对应的 SHA256 校验文件；
-- 面向最终用户的版本说明。
-
-源码和开发约束保存在私有源码仓库 [tryle17/YMH-Browser](https://github.com/tryle17/YMH-Browser)。浏览器内核使用 [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium/releases) 的预编译发行版。
+公开仓库仅包含 Windows 安装程序、对应的 SHA256 校验文件和面向最终用户的版本说明。源码和开发约束保存在私有源码仓库 [tryle17/YMH-Browser](https://github.com/tryle17/YMH-Browser)。
 
 ## 使用边界
 
