@@ -4,11 +4,11 @@
 
 ## 当前版本
 
-- 最新版本：v1.5.6
-- 发布日期：2026-08-12
-- Windows 安装包：[YMH-Browser-Setup-1.5.6.exe](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.6/YMH-Browser-Setup-1.5.6.exe)
-- SHA256 校验文件：[YMH-Browser-Setup-1.5.6.exe.sha256](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.6/YMH-Browser-Setup-1.5.6.exe.sha256)
-- 版本说明：[v1.5.6 Release](https://github.com/tryle17/YMH-Browser-Releases/releases/tag/v1.5.6)
+- 最新版本：v1.5.7
+- 发布日期：2026-08-13
+- Windows 安装包：[YMH-Browser-Setup-1.5.7.exe](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.7/YMH-Browser-Setup-1.5.7.exe)
+- SHA256 校验文件：[YMH-Browser-Setup-1.5.7.exe.sha256](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.5.7/YMH-Browser-Setup-1.5.7.exe.sha256)
+- 版本说明：[v1.5.7 Release](https://github.com/tryle17/YMH-Browser-Releases/releases/tag/v1.5.7)
 
 当前仓库只保留最新可升级版本。应用内更新检查会读取最新 Release，并根据当前平台选择对应的安装包。
 
@@ -20,6 +20,12 @@
 4. 已安装用户也可以在应用内打开“检查更新”，下载完成后选择“立即安装”。
 
 升级会保留本地实例、代理、书签和浏览器用户数据。升级前仍建议关闭正在运行的浏览器实例，并保留本地备份。
+
+## 1.5.7 更新内容
+
+- 新增接口化指纹验收流程和脱敏证据规范，覆盖 LaunchServer、CDP、Client Hints 与检测站入口记录。
+- 完善文档中心的操作流程、脚本自动化和 ant-chrome-openclaw skill 使用说明。
+- 增加旧版 /api/active 兼容路径，并修复持久 CDP 主动停止时的误报。
 
 ## 1.5.6 更新内容
 
