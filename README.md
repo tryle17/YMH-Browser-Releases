@@ -4,10 +4,10 @@
 
 ## 当前版本
 
-- 最新版本：v1.6.4
-- Windows 安装包：[YMH-Browser-Setup-1.6.4.exe](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.6.4/YMH-Browser-Setup-1.6.4.exe)
-- SHA256 校验文件：[YMH-Browser-Setup-1.6.4.exe.sha256](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.6.4/YMH-Browser-Setup-1.6.4.exe.sha256)
-- 版本说明：[v1.6.4 Release](https://github.com/tryle17/YMH-Browser-Releases/releases/tag/v1.6.4)
+- 最新版本：v1.6.7
+- Windows 安装包：[YMH-Browser-Setup-1.6.7.exe](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.6.7/YMH-Browser-Setup-1.6.7.exe)
+- SHA256 校验文件：[YMH-Browser-Setup-1.6.7.exe.sha256](https://github.com/tryle17/YMH-Browser-Releases/releases/download/v1.6.7/YMH-Browser-Setup-1.6.7.exe.sha256)
+- 版本说明：[v1.6.7 Release](https://github.com/tryle17/YMH-Browser-Releases/releases/tag/v1.6.7)
 
 当前仓库只保留最新可升级版本。应用内更新检查会读取最新 Release，并根据当前平台选择对应的安装包。
 
